@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Batarang</string>
+    <string name="add_geometri">Tambah Geometri</string>
+    <string name="edit_geometri">Edit Geometri</string>
+    <string name="save">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="cancel">Batal</string>
+    <string name="delete_title">Hapus Geometri</string>
+    <string name="delete_question">Apakah Anda yakin ingin menghapus data ini?</string>
+    <string name="no_data_title">Tidak Ada Data</string>
+    <string name="no_data_description">Silakan klik tombol + untuk menambah data geometri baru.</string>
+    <string name="nama_input">Nama (mis: Persegi, Kubus)</string>
+    <string name="deskripsi_input">Deskripsi</string>
+    <string name="jenis_input">Jenis (Bangun Datar / Bangun Ruang)</string>
+    <string name="rumus_input">Rumus</string>
+    <string name="input_invalid">Semua kolom harus diisi dengan benar!</string>
+    <string name="item_saved">Data berhasil disimpan</string>
+    <string name="item_updated">Data berhasil diperbarui</string>
+    <string name="item_deleted">Data berhasil dihapus</string>
+    <string name="linear_layout">Tampilan List</string>
+    <string name="grid_layout">Tampilan Grid</string>
 </resources>
